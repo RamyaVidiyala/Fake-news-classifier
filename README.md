@@ -24,5 +24,4 @@ numpy, pandas, matplotlib, wordcloud, ntlk, CountVectorizer, TfidfTransformer
 - Naive Bayes	84%
 - Decision Tree	97%
 
-# References
-https://www.kaggle.com/c/fake-news/data
+
