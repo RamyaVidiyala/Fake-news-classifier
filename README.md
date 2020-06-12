@@ -19,9 +19,8 @@ numpy, pandas, matplotlib, wordcloud, ntlk, CountVectorizer, TfidfTransformer
 - Decision Tree Model
 
 # Performance
-- Model	Accuracy
-- Logistic	96%
-- Naive Bayes	84%
-- Decision Tree	97%
-
-
+| Model	| Accuracy |
+| ----- | ------- | 
+| Logistic |	96% |
+| Naive Bayes | 86% |
+| Decision Tree | 97% |
